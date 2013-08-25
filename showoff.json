@@ -1,0 +1,12 @@
+{
+  "name": "Puppet Without Root",
+  "sections": [
+    "0_title.md",
+    "0_agenda.md",
+    "1_uti.md",
+    "2_puppet_client.md",
+    "3_puppet_manifests.md",
+    "3_puppet_server.md",
+    "4_outro.md"
+  ]
+}
